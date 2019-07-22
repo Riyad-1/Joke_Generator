@@ -1,0 +1,16 @@
+{
+  "name": "Chuck_Norris",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "deploy": "gh-pages"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://Riyad-1.github.io/Joke_Generator",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
